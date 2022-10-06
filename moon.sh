@@ -1,0 +1,1 @@
+print the moon does go around the earth
